@@ -1,4 +1,4 @@
-# Algorithm Visualizer (Java SE & Swing)
+# Algorithm Visualizer (Java OOPs)
 
 A desktop interactive application built from scratch in Java SE demonstrating **Sorting**, **Searching**, and **Graph/Pathfinding** algorithms with real-time step-by-step animations, custom `Graphics2D` rendering, and telemetry metrics.
 
